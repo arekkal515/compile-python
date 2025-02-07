@@ -1,5 +1,6 @@
 # compile-python
 This is a repo for compiling and installing python from scratch.
+https://www.edx.org/learn/computer-science/pragmatic-ai-labs-spark-hadoop-and-snowflake-for-data-engineering
 
 ## Compile Python and Create VirtualEnv with it
 
